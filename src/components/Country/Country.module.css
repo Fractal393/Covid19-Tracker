@@ -1,0 +1,19 @@
+.FormControl {
+  width: 30%;
+  margin-bottom: 30px !important;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding-left: 2.5px;
+  padding-right: 2.5px;
+  border-radius: 7px;
+  border-bottom: 4px solid green;
+  animation: mymove 5s infinite;
+}
+
+@keyframes mymove {
+  50% {
+    border-bottom-color: #b31407;
+  }
+  25% {
+    border-bottom-color: #0e0e10;
+  }
+}

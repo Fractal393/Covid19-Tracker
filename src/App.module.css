@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  background-image: url("https://drive.google.com/uc?id=13SC6l7saWJmqJT4H0AMNoRAlLWeIIKvl");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.image {
+  margin: 50px;
+  width: 650px;
+}
+
+@media only screen and (max-width: 770px) {
+  .container {
+    margin: 0 10%;
+  }
+
+  .image {
+    width: 100%;
+  }
+}

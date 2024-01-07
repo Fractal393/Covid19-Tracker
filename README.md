@@ -6,6 +6,6 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![MaterialUI](https://img.shields.io/badge/-MaterialUI-black?style=flat-square&logo=materialdesign)
+![MaterialUI](https://img.shields.io/badge/-MaterialUI-white?style=flat-square&logo=materialdesign)
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
 

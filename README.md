@@ -11,11 +11,13 @@ The application tracks the cases of infected people, recovered people and the nu
 ![Netlify](https://img.shields.io/badge/-Netlify-105882?style=flat-square&logo=netlify)
 
 ### Installation
-```sh
+
+Install all the NPM packages
+```
 npm install
 ```
 
+To run the application:
 ```
-//run this to start
 npm start
 ```

@@ -10,3 +10,12 @@ The application tracks the cases of infected people, recovered people and the nu
 ![MaterialUI](https://img.shields.io/badge/-MaterialUI-white?style=flat-square&logo=materialdesign)
 ![Netlify](https://img.shields.io/badge/-Netlify-105882?style=flat-square&logo=netlify)
 
+### Installation
+```sh
+npm install
+```
+
+Run using:
+```
+npm start
+```

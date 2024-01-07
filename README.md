@@ -16,5 +16,6 @@ npm install
 ```
 
 ```
+//run this to start
 npm start
 ```

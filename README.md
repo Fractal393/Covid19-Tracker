@@ -15,7 +15,6 @@ The application tracks the cases of infected people, recovered people and the nu
 npm install
 ```
 
-Run using:
 ```
 npm start
 ```
